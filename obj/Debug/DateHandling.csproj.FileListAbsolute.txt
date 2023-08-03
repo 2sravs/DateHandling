@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\DateHandling\DateHandling\bin\Debug\DateHandling.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\DateHandling\DateHandling\bin\Debug\DateHandling.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\DateHandling\DateHandling\bin\Debug\DateHandling.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\DateHandling\DateHandling\obj\Debug\DateHandling.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\DateHandling\DateHandling\obj\Debug\DateHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\DateHandling\DateHandling\obj\Debug\DateHandling.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\DateHandling\DateHandling\obj\Debug\DateHandling.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Assisted exercises\DateHandling\DateHandling\obj\Debug\DateHandling.pdb
